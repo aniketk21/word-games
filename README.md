@@ -6,3 +6,6 @@ Hangman and Anagram implemented in Python.
     `>>> python hangman.py`  
 2. Anagram:
     `>>> python anagram.py`
+
+###TODO:  
+GUI for these games.
