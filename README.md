@@ -3,9 +3,10 @@ Hangman and Anagram implemented in Python.
 
 ## Usage  
 1. Hangman:
-    `>>> python hangman.py`  
+    `$ python hangman.py`  
+
 2. Anagram:
-    `>>> python anagram.py`
+    `$ python anagram.py`
 
 ###TODO:  
 GUI for these games.
